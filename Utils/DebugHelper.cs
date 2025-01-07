@@ -72,7 +72,7 @@
         }
 
         /// <summary>
-        /// Печатает строку разделителя.
+        /// Печатает строку разделителя .
         /// </summary>
         private static void WriteLineSplitter(string splitter)
         {
