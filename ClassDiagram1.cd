@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Poliak_UI_WT.Domain.Entities.Category">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAwAEAAAAAAQAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Entities\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poliak_UI_WT.Domain.Entities.Phone">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAgAEAAAAAAQAAAIAABAAAAgAAAAACAA=</HashCode>
+      <FileName>Entities\Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poliak_UI_WT.Domain.Models.ListModel&lt;T&gt;">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Models\ListModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poliak_UI_WT.Domain.Models.ResponseData&lt;T&gt;">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEAAAAAAAAAgAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ResponseData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poliak_UI_WT.Domain.Utils.DebugHelper">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EARAQAAAAAAAAAAAEAQAgAAAAAQIAAAAAAAQAAAESAA=</HashCode>
+      <FileName>Utils\DebugHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
